@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "libxmljs": "^0.19.10",
     "node-expose-sspi": "^0.1.59",
-    "node-sspi": "^0.2.8"
+    "node-gyp": "^9.3.0",
+    "node-sspi": "^0.2.10"
   }
 }
